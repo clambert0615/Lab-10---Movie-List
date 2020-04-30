@@ -1,0 +1,13 @@
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.exe
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.deps.json
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.runtimeconfig.json
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.runtimeconfig.dev.json
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.dll
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\bin\Debug\netcoreapp3.1\Lab 10 Movie List.pdb
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.csprojAssemblyReference.cache
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.csproj.CoreCompileInputs.cache
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.AssemblyInfoInputs.cache
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.AssemblyInfo.cs
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.dll
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.pdb
+C:\Users\cbele\source\repos\Lab 10 Movie List\Lab 10 Movie List\obj\Debug\netcoreapp3.1\Lab 10 Movie List.genruntimeconfig.cache
